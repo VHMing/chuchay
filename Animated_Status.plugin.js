@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://github.com/VHMing/chuchay/Animated_Status.plugin.js","website":"https://github.com/VHMing/chuchay"}*//
+//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/VHMing/chuchay/main/Animated_Status.plugin.js","website":"https://github.com/VHMing/chuchay"}*//
 
 class AnimatedStatus {
 	/* BD functions */
