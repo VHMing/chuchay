@@ -18,7 +18,7 @@ class AnimatedStatus {
 	/* Code related to Animations */
 	load() {
 		this.kSpacing = "15px";
-		this.kMinTimeout = 1000;
+		this.kMinTimeout = 200;
 		this.cancel = undefined;
 
 		this.animation = this.GetData("animation") || [];
